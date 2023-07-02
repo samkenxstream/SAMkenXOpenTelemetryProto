@@ -16,7 +16,7 @@
 *   @open-telemetry/specs-approvers
 
 # Trace owners (global + trace)
-opentelemetry/proto/trace/    @open-telemetry/specs-approvers @open-telemetry/specs-trace-approvers
+opentelemetry/proto/trace/samkenxstream@open-telemetry/samkenx-approvers @open-telemetry/samkenx-ecosystem
 
 # Metrics owners (global + metrics)
 opentelemetry/proto/metrics/  @open-telemetry/specs-approvers @open-telemetry/specs-metrics-approvers
